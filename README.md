@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/omarsnmyoungsta" target="blank"><img src="https://img.shields.io/twitter/follow/omarsnmyoungsta?logo=twitter&style=for-the-badge" alt="omarsnmyoungsta" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/omar20222222](https://github.com/omar20222222)
+- 👨‍💻 **All of my projects are available at [https://github.com/omar20222222](https://github.com/omar20222222)
 
-- 📫 How to reach me **Email: omarpass50@gmail.com**
+- 📫  **How to reach me Email: omarpass50@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
