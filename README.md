@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Birmingham, UK</h3>
 
-
-
-
 - 👨‍💻 **All of my projects are available at [https://github.com/omar20222222](https://github.com/omar20222222)
 
 - 📫  **How to reach me Email: omarpass50@gmail.com
